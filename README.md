@@ -3,14 +3,14 @@
 ### APA
 Wang, Z., Wu, W., Zeng, C., Luo, H., & Sun, J. (2024). Psychological factors enhanced heterogeneous learning interactive graph knowledge tracing for understanding the learning process. Frontiers in Psychology, 15. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1359199
 ### BibTex
-@article{Wang2024,
-  title = {Psychological Factors Enhanced Heterogeneous Learning Interactive Graph Knowledge Tracing for Understanding the Learning Process},
-  author = {Wang, Zhifeng and Wu, Wanxuan and Zeng, Chunyan and Luo, Heng and Sun, Jianwen},
-  year = {2024},
-  journal = {Frontiers in Psychology},
-  volume = {15},
-  issn = {1664-1078},
-  urldate = {2024-07-18}
+@article{Wang2024,<br>
+  title = {Psychological Factors Enhanced Heterogeneous Learning Interactive Graph Knowledge Tracing for Understanding the Learning Process},<br>
+  author = {Wang, Zhifeng and Wu, Wanxuan and Zeng, Chunyan and Luo, Heng and Sun, Jianwen},<br>
+  year = {2024},<br>
+  journal = {Frontiers in Psychology},<br>
+  volume = {15},<br>
+  issn = {1664-1078},<br>
+  urldate = {2024-07-18}<br>
 }
 ## 1. Introduction
 
